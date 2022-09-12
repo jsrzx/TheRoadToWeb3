@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Road to Web3 Week3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+![image-20220912112052300](assets/image-20220912112052300.png)
 
-Try running some of the following tasks:
+![image-20220912112158709](assets/image-20220912112158709.png)
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![image-20220912112214930](assets/image-20220912112214930.png)
+
+![image-20220912112617172](assets/image-20220912112617172.png)
+
+![image-20220912112659413](assets/image-20220912112659413.png)
+
+
+
